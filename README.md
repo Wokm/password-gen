@@ -1,7 +1,7 @@
 <h1>Python - Password Generator </h1>
 
 <h2>Description</h2>
-The project consists of a Python script that generates a password using a randomized combination of letters, numbers, and special characters, with a length of 10 characters. This is a useful tool to create a password that is hard to guess and/or brute-force.
+This project consists of a Python script that generates a password using a randomized combination of letters, numbers, and special characters, with a length of 10 characters. This is a useful tool to create a password that is hard to guess and/or brute-force.
 <br />
 
 
